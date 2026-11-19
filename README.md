@@ -1,16 +1,29 @@
-## Hi there 👋
+𝗛𝗜 𝗧𝗛𝗘𝗥𝗘, 𝗜'𝗠 𝗞𝗔𝗥𝗧𝗛𝗜𝗞𝗔 𝗩 👋
+🎓 Computer Science Engineering Student
+💻 Aspiring Software Developer
+🤖 Interested in Artificial Intelligence & Generative AI
 
-<!--
-**Karthikaa-03/Karthikaa-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 
 
-Here are some ideas to get you started:
+- Currently pursuing B.E. Computer Science and Engineering.
+- Interested in Software Development and AI.
+- Exploring new technologies and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟
+- Java (Basic)
+- Python (Basic)
+
+𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧
+
+- Software Development
+- UI/UX Design
+- Artificial Intelligence
+- Generative AI
+
+𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘 
+
+- LinkedIn
+- GitHub
+
+✨ Always exploring, creating and improving!
+
